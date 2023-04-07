@@ -1,2 +1,6 @@
-package com.management.bookAuthor;public enum Gender {
+package com.management.bookAuthor;
+
+public enum Gender {
+    MALE,
+    FEMALE
 }
